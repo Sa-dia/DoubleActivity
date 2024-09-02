@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoubleActivity</string>
+    <string name="btnLabel">Seek Menu</string>
+    <string name="defaultText">No option selected ..</string>
+    <string-array name="MenuStringArray">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>
